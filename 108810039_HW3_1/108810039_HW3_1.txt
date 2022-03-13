@@ -1,0 +1,6 @@
+1. 
+As many as you need
+2. 
+android:orientation="horizontal"
+3. 
+android:layout_width="match_parent"
