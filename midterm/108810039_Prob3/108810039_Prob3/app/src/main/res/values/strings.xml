@@ -1,0 +1,28 @@
+<!--
+  ~ Copyright (C) 2018 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">108810039_Prob3</string>
+
+    <string name="tab_1">This is Tab1 fragment.</string>
+    <string name="tab_2">This is Tab2 fragment.</string>
+    <string name="tab_3">This is Tab3 fragment.</string>
+    <string name="tab_4">This is Tab4 fragment.</string>
+    <string name="tab_label1">TAB1</string>
+    <string name="tab_label2">TAB2</string>
+    <string name="tab_label3">TAB3</string>
+    <string name="tab_label4">TAB4</string>
+</resources>
