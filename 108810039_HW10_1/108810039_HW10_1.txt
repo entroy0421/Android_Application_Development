@@ -1,0 +1,8 @@
+1-1. 自己設定在 0 到 100 內
+1-2. 用 publishProgress 來更新進度條
+
+2.1. url
+2.2. int
+2.3. long 
+
+3. Implement onProgressUpdate(). Call publishProgress()

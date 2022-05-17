@@ -1,0 +1,18 @@
+com/example/android/scorekeeper/test/BuildConfig.java
+ com.example.android.scorekeeper.test.BuildConfig
+com/example/android/scorekeeper/ScorePlusMinusTest.java
+ com.example.android.scorekeeper.ScorePlusMinusTest
+ com.example.android.scorekeeper.ScorePlusMinusTest$1
+android/support/test/espresso/idling/concurrent/R.java
+ android.support.test.espresso.idling.concurrent.R
+com/example/android/scorekeeper/test/R.java
+ com.example.android.scorekeeper.test.R
+com/example/android/scorekeeper/DayNightModeTest.java
+ com.example.android.scorekeeper.DayNightModeTest
+ com.example.android.scorekeeper.DayNightModeTest$1
+android/support/test/rules/R.java
+ android.support.test.rules.R
+android/support/test/espresso/R.java
+ android.support.test.espresso.R
+android/support/test/runner/R.java
+ android.support.test.runner.R

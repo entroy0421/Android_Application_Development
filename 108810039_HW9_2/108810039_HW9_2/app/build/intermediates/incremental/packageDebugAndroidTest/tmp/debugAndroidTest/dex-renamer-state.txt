@@ -1,0 +1,4 @@
+#Sat May 14 15:33:15 CST 2022
+base.0=/Users/entroy/classes/Android_Application_Development/108810039_HW9_2/108810039_HW9_2/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
