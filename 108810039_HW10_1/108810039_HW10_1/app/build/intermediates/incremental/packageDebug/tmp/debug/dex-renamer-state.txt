@@ -1,4 +1,0 @@
-#Tue May 17 11:31:21 CST 2022
-base.0=/Users/entroy/classes/Android_Application_Development/108810039_HW10_1/108810039_HW10_1/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
