@@ -1,0 +1,6 @@
+1. onPause()
+2. onCreate()
+3. 
+You usually want to use SharedPreferences when you want to persist some information between different app session. Imagine you want to store information that you want to retrieve also after the user closes the app.
+
+SavedInstanceState is used to keep some information while user is using the app and allow you to track temporary state of your activity or fragments.
